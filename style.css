@@ -272,4 +272,6 @@ ul li:before {
     .product-details h3 {
         font-size: 25px;
     }
+    .footer-content {
+        width:100%;
 }
